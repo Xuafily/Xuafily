@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Xuafily
+- 👋 Hi, I’m @Diamondboy
 - 📜 I make games
-- 📫 How to reach me My Discord is celestialdescent...
+- 📫 How to reac? Discord...
 
 <!---
 Xuafily/Xuafily is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
